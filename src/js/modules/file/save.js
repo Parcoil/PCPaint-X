@@ -14,7 +14,7 @@ var instance = null;
 /** 
  * manages files / save
  * 
- * @author ViliusL
+ * @author Parcoil Inc
  */
 class File_save_class {
 	
@@ -662,7 +662,7 @@ class File_save_class {
 			width: config.WIDTH,
 			height: config.HEIGHT,
 			about: 'Image data with multi-layers. Can be opened using PCPaint X - '
-				+ 'https://github.com/viliusle/PCPaint X',
+				+ 'https://www.parcoil.com/products/pcp',
 			date: today,
 			version: VERSION,
 			layer_active: config.layer.id,

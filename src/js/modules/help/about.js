@@ -9,7 +9,7 @@ class Help_about_class {
 
 	//about
 	about() {
-		var email = 'www.viliusl@gmail.com';	
+		var email = 'info@parcoil.com';	
 		
 		var settings = {
 			title: 'About',
@@ -17,11 +17,11 @@ class Help_about_class {
 				{title: "", html: '<img style="width:64px;" class="about-logo" alt="" src="images/logo-colors.png" />'},
 				{title: "Name:", html: '<span class="about-name">PCPaint X</span>'},
 				{title: "Version:", value: VERSION},
-				{title: "Description:", value: "Online image editor."},
-				{title: "Author:", value: 'ViliusL'},
+				{title: "Description:", value: "PCPaint X image editor. Edit. Create. Post."},
+				{title: "Author:", value: 'Parcoil Inc'},
 				{title: "Email:", html: '<a href="mailto:' + email + '">' + email + '</a>'},
-				{title: "GitHub:", html: '<a href="https://github.com/viliusle/PCPaint X">https://github.com/viliusle/PCPaint X</a>'},
-				{title: "Website:", html: '<a href="https://viliusle.github.io/PCPaint X/">https://viliusle.github.io/PCPaint X/</a>'},
+				{title: "GitHub:", html: '<a href="https://parcoil.com">https://parcoil.com</a>'},
+				{title: "Website:", html: '<a href="https://parcoil.com">https://parcoil.com</a>'},
 			],
 		};
 		this.POP.show(settings);

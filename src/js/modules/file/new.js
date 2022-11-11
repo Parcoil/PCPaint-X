@@ -9,7 +9,7 @@ import Tools_settings_class from './../tools/settings.js';
 /** 
  * manages files / new
  * 
- * @author ViliusL
+ * @author Parcoil Inc
  */
 class File_new_class {
 
@@ -103,7 +103,7 @@ class File_new_class {
 					WIDTH: parseInt(width),
 					HEIGHT: parseInt(height),
 					ALPHA: 255,
-					COLOR: '#008000',
+					COLOR: '#07c1ff',
 					mouse: {},
 					visible_width: null,
 					visible_height: null,

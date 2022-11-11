@@ -1,6 +1,6 @@
 /*
- * PCPaint X - https://github.com/viliusle/PCPaint X
- * author: Vilius L.
+ * PCPaint X - https://www.parcoil.com/products/pcp
+ * author: Parcoil Inc
  */
 
 import app from './../../app.js';

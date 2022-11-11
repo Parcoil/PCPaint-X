@@ -15,7 +15,7 @@ var instance = null;
 /** 
  * manages files / open
  * 
- * @author ViliusL
+ * @author Parcoil Inc
  */
 class File_open_class {
 
@@ -417,7 +417,7 @@ class File_open_class {
 	}
 
 	/**
-	 * check if url has url params, for example: https://viliusle.github.io/PCPaint X/?image=http://i.imgur.com/ATda8Ae.jpg
+	 * check if url has url params, for example: https://www.parcoil.com?image=http://i.imgur.com/ATda8Ae.jpg
 	 */
 	maybe_file_open_url_handler() {
 		var _this = this;

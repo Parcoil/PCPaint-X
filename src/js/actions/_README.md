@@ -2,4 +2,4 @@
 
 More information on wiki page:
 
-https://github.com/viliusle/PCPaint X/wiki/Undo-Redo-system
+https://www.parcoil.com/products/pcp/wiki/Undo-Redo-system

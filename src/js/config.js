@@ -9,7 +9,7 @@ config.WIDTH = null;
 config.HEIGHT = null;
 config.visible_width = null;
 config.visible_height = null;
-config.COLOR = '#008000';
+config.COLOR = '#07c1ff';
 config.ALPHA = 255;
 config.ZOOM = 1;
 config.SNAP = true;
@@ -430,7 +430,7 @@ config.TOOLS = [
 	{
 		name: 'gradient',
 		attributes: {
-			color_1: '#008000',
+			color_1: '#07c1ff',
 			color_2: '#ffffff',
 			alpha: 0,
 			radial: false,

@@ -745,7 +745,7 @@ const menuDefinition = [
 			},
 			{
 				name: 'Report Issues',
-				href: 'https://github.com/viliusle/PCPaint X/issues'
+				href: 'https://www.parcoil.com/products/pcp/issues'
 			},
 			{
 				divider: true

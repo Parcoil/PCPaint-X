@@ -56,6 +56,6 @@ https://github.com/nodeca/pica
 /**
  * hermite-resize - Canvas image resize/resample using Hermite filter with JavaScript.
  * @version v2.2.10
- * @link https://github.com/viliusle/PCPaint X
+ * @link https://www.parcoil.com/products/pcp
  * @license MIT
  */

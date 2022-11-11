@@ -1,7 +1,7 @@
 /** 
  * manages files / print
  * 
- * @author ViliusL
+ * @author Parcoil Inc
  */
 class File_print_class {
 

@@ -1,6 +1,6 @@
 /*
- * PCPaint X - https://github.com/viliusle/PCPaint X
- * author: Vilius L.
+ * PCPaint X - https://parcoil.com
+ * author: Parcoil Inc
  */
 
 import config from './../../config.js';

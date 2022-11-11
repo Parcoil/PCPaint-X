@@ -2,7 +2,7 @@
 	"info": {
 		"width": 1000,
 		"height": 750,
-		"about": "Image data with multi-layers. Can be opened using PCPaint X - https://github.com/viliusle/PCPaint X",
+		"about": "Image data with multi-layers. Can be opened using PCPaint X - https://www.parcoil.com/products/pcp",
 		"date": "2021-06-16",
 		"version": "4.7.1",
 		"layer_active": 1,
@@ -35,7 +35,7 @@
 			"data": null,
 			"params": {},
 			"status": null,
-			"color": "#008000",
+			"color": "#07c1ff",
 			"filters": [
 				{
 					"id": 592629679,
@@ -326,7 +326,7 @@
 				"wrap": "letter"
 			},
 			"status": null,
-			"color": "#008000",
+			"color": "#07c1ff",
 			"filters": [],
 			"render_function": [
 				"text",
@@ -374,7 +374,7 @@
 				"wrap": "letter"
 			},
 			"status": null,
-			"color": "#008000",
+			"color": "#07c1ff",
 			"filters": [],
 			"render_function": [
 				"text",
@@ -422,7 +422,7 @@
 				"wrap": "letter"
 			},
 			"status": null,
-			"color": "#008000",
+			"color": "#07c1ff",
 			"filters": [],
 			"render_function": [
 				"text",
@@ -471,7 +471,7 @@
 				"wrap": "letter"
 			},
 			"status": null,
-			"color": "#008000",
+			"color": "#07c1ff",
 			"filters": [],
 			"render_function": [
 				"text",
@@ -502,7 +502,7 @@
 				"size": 5
 			},
 			"status": null,
-			"color": "#008000",
+			"color": "#07c1ff",
 			"filters": [],
 			"render_function": [
 				"line",
@@ -639,7 +639,7 @@
 				"center_y": 504
 			},
 			"params": {
-				"color_1": "#008000",
+				"color_1": "#07c1ff",
 				"color_2": "#ffffff",
 				"alpha": 0,
 				"radial": true,
@@ -677,7 +677,7 @@
 				"center_y": 540
 			},
 			"params": {
-				"color_1": "#008000",
+				"color_1": "#07c1ff",
 				"color_2": "#ffffff",
 				"alpha": 0,
 				"radial": false,
@@ -904,7 +904,7 @@
 				"pressure": false
 			},
 			"status": null,
-			"color": "#008000",
+			"color": "#07c1ff",
 			"filters": [],
 			"render_function": [
 				"brush",
@@ -946,7 +946,7 @@
 				"pressure": true
 			},
 			"status": null,
-			"color": "#008000",
+			"color": "#07c1ff",
 			"filters": [],
 			"render_function": [
 				"brush",

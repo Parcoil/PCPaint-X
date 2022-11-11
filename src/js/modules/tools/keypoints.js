@@ -8,7 +8,7 @@ import alertify from './../../../../node_modules/alertifyjs/build/alertify.min.j
 /**
  * SIFT: scale-invariant-feature-transform, keypoints
  * 
- * @author ViliusL
+ * @author Parcoil Inc
  */
 class Tools_keypoints_class {
 
